@@ -1,0 +1,22 @@
+/*insertamos fuentes de google*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+/* CSS Variables */
+:root{
+    --header-height:3.5rem;
+    /* COLORES*/
+    --primary-color:#c82222;
+    --primary-color-alt: #575757;
+    --linear-gradient: linear-gradient(54deg, rgba(96,96,96,0.7)34%,
+      rgba(96,96,96,0,70));
+      --tittle-color:#4a4a4a;
+      --text-color:#555;
+      --text-color-alt:#999;
+      --bg-color: #fff;
+      --bg-color-alt:#e9e9;
+      --border-color:#f1f1;
+      /* fuente y tipografia*/
+      --robot-font: 'roboto', san-seif;
+      --mono-font: 'roboto-mono', monospace;
+      --font-japanese:'noto sans JP', sans-serif;
+
+}
